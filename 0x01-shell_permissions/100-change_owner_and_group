@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -hR vincel:staff
+chown -hR vincel:staff _hello
